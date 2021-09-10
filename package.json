@@ -1,0 +1,11 @@
+{
+  "name": "webpack-strip-comments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Kevin Schmidt",
+  "license": "ISC",
+  "dependencies": {
+    "strip-comments": "^2.0.1"
+  }
+}
